@@ -8,7 +8,6 @@
   </ul>
 </div>
 
-
 <!--- snake -->
 <div align="center">
   <p align="center">
@@ -36,7 +35,6 @@
 
 - 🏠 Don't hesitate to drop me a **👋** on Discord –  [HungIT](https://discordapp.com/users/phanvanhung) my username!
 <!--Intro end-->
-
 
 
 <!--- stats & Trophy (start) -->
@@ -86,6 +84,8 @@
   </a>
 </p>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
@@ -117,8 +117,5 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ----------------------------------------------------------------------
