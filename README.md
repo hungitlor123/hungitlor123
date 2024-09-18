@@ -28,7 +28,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
 
-- 🎓 &nbsp;I'm currently studying Information of Technology (IT) at FPT University HCM.\
+- 🎓 &nbsp;I'm currently studying Information of Technology (IT) at FPT University HCM.
   
 - 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
 
