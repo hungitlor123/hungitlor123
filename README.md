@@ -36,7 +36,7 @@
 
 - 📫 Feel free to reach me out **hunglorfptu@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/phanvanhung) my username!
+- 🏠 Don't hesitate to drop me a **👋** on Discord –  [HungIT](https://discordapp.com/users/phanvanhung) my username!
 <!--Intro end-->
 
 
