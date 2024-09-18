@@ -30,8 +30,6 @@
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **REACTJS**
-
 - 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
 
 - 📫 Feel free to reach me out **hunglorfptu@gmail.com**
