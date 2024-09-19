@@ -34,8 +34,8 @@
 - 🏠 Don't hesitate to drop me a **👋** on Discord –  [HungIT](https://discordapp.com/users/phanvanhung) my username!
 <!--Intro end-->
 <p align="center">  
-  
-  [![](https://visitcount.itsvg.in/api?id=hungitlor123&label=Profile%20Views&color=3&pretty=true)](https://visitcount.itsvg.in)
+
+  [![](https://visitcount.itsvg.in/api?id=hungitlor123&label=Profile%20Views&color=12&icon=5&pretty=true)(https://visitcount.itsvg.in)
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/hungitlor123?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/hungitlor123?label=Stars" alt="Total Stars">
 </p>
