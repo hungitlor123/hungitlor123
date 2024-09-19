@@ -12,6 +12,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=329A2E&center=true&vCenter=true&width=435&lines=%F0%9F%8E%89+Welcome+to+my+GitHub+profile!+%F0%9F%91%8B)](https://git.io/typing-svg)
 </div>
+[<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
 
 
 <!--h2 without bottom border-->
