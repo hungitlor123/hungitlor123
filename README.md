@@ -8,6 +8,7 @@
   </ul>
 </div>
 
+
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=329A2E&center=true&vCenter=true&width=435&lines=%F0%9F%8E%89+Welcome+to+my+GitHub+profile!+%F0%9F%91%8B)](https://git.io/typing-svg)
@@ -18,7 +19,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Genius is 1% talent and 99% percent hard work</h2></summary>
   </ul>
 </div>
 
