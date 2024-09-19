@@ -111,12 +111,6 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=hungitlor123&label=Profile%20Views&color=3&pretty=true)](https://visitcount.itsvg.in)
-  
-</div>
 
 
 <!--horizontal divider(gradiant)-->
