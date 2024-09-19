@@ -12,7 +12,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=329A2E&center=true&vCenter=true&width=435&lines=%F0%9F%8E%89+Welcome+to+my+GitHub+profile!+%F0%9F%91%8B)](https://git.io/typing-svg)
 </div>
-[<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">]
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">
 
 
 <!--h2 without bottom border-->
@@ -36,7 +36,7 @@
 <!--Intro end-->
 <p align="center">  
 
-  [![](https://visitcount.itsvg.in/api?id=hungitlor123&label=Profile%20Views&color=12&icon=5&pretty=true)
+  (https://visitcount.itsvg.in/api?id=hungitlor123&label=Profile%20Views&color=12&icon=5&pretty=true)
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/hungitlor123?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/hungitlor123?label=Stars" alt="Total Stars">
 </p>
