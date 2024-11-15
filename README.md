@@ -19,7 +19,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Genius is 1% talent and 99% hard-working</h2></summary>
+    <summary><h2 style="display: inline-block">Genius is 1% talented and 99% hard-working</h2></summary>
   </ul>
 </div>
 
