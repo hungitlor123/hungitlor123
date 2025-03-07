@@ -25,11 +25,11 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently working on **React, Angular, NodeJs, .NET**
 
 - 🎓 &nbsp;I'm currently studying Information of Technology (IT) at FPT University HCM.
   
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 💬 Ask me about **React, Angular, NodeJs, .NET**
 
 - 📫 Feel free to reach me out **hunglorfptu@gmail.com**
 
